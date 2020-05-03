@@ -1,0 +1,15 @@
+.myclass{
+    text-align: center;
+    border: 2px solid red;
+    margin: 15px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+.myclass1{
+    text-align: center;
+    background-color: yellowgreen;
+   
+    margin: 15px;
+    padding-left: 400px;
+    font-size: 25px; 
+}
